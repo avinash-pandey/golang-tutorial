@@ -1,5 +1,6 @@
 package main
 
+//having import inside the square brackets is callled factored import
 import (
 	"fmt"
 	"math/cmplx"
